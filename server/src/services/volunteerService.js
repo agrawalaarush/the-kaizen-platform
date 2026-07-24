@@ -1,5 +1,5 @@
 const Volunteer = require("../models/Volunteer");
-const Idea = require("../models/Idea");
+const Idea = require("../models/idea");
 
 const volunteerForIdea = async (
   ideaId,

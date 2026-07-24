@@ -1,5 +1,5 @@
 const Comment = require("../models/Comment");
-const Idea = require("../models/Idea");
+const Idea = require("../models/idea");
 
 const addComment = async (
   ideaId,

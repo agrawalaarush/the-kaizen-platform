@@ -1,4 +1,4 @@
-const Idea = require("../models/Idea");
+const Idea = require("../models/idea");
 const Volunteer = require("../models/Volunteer");
 const Comment = require("../models/Comment");
 
